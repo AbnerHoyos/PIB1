@@ -41,6 +41,7 @@ PASATIEMPO: Leer, jugar voley y escuchar música.
 
 6) Sofia Alessandra Vásquez Solano:
 ![Sofía](https://github.com/user-attachments/assets/3e80a58c-276d-41bd-8dc5-16a71464ac1e)
+
 EDAD: 17 años 
 
 PASATIEMPO: Estar con mis perros, dibujar e investigar más sobre diferentes proyectos de dispositivos que mejoren la calidad de vida de las personas.
