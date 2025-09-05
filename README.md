@@ -13,6 +13,7 @@ PASATIEMPO: Jugar videojuegos, escuchar podcast sobre criminología y pintar
 2) Franco Esteban Ollero Poma:
 ![Franco](https://github.com/user-attachments/assets/0f836cb0-7d2a-4bd6-9d04-5cc09bf3a7d6)
 EDAD: 18 años 
+
 PASATIEMPO: Jugar videojuegos, escuchar música y ver películas.
 3) Maria Fernanda Olortegui Sanchez:
 ![María](https://github.com/user-attachments/assets/cbb0458e-bc8e-4843-8fde-003c022a77c0)
