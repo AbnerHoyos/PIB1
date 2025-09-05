@@ -30,6 +30,7 @@ PASATIEMPO: Hacer ejercicio, bailar, ver series y escuchar música.
 4) Rodrigo Edson Sandoval Baca:
 ![Rodrigo ](https://github.com/user-attachments/assets/0d40b14e-baca-4e64-aa47-5fe5ad71bfeb)
 EDAD: 17 años 
+
 PASATIEMPO: Jugar basketball, montar bicicleta, tocar la guitarra y pasear a mi perro.
 5) Damaris Maria Tinoco Alejo:
 ![Damaris](https://github.com/user-attachments/assets/71267344-12d2-4287-aac8-3b43c9bf1d97)
