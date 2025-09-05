@@ -34,6 +34,7 @@ PASATIEMPO: Leer, jugar voley y escuchar música.
 ![Sofía](https://github.com/user-attachments/assets/3e80a58c-276d-41bd-8dc5-16a71464ac1e)
 EDAD: 17 años 
 PASATIEMPO: Estar con mis perros, dibujar e investigar más sobre diferentes proyectos de dispositivos que mejoren la calidad de vida de las personas.
+
 GRACIAS POR VISITAR NUESTRO REPOSITORIO
 Deseamos que la visita a nuestro repositorio no solo sea enriquecedora, sino que también despierte el interés por crear soluciones innovadoras que transformen la tecnología médica en el Perú. Aspiramos a que más personas se unan a este esfuerzo para fortalecer el sistema de salud y contribuir a que la atención médica de calidad llegue a todos los rincones del país.
 
