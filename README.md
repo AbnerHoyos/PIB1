@@ -22,7 +22,9 @@ PASATIEMPO: Jugar videojuegos, escuchar música y ver películas.
 3) Maria Fernanda Olortegui Sanchez:
 
 ![María](https://github.com/user-attachments/assets/cbb0458e-bc8e-4843-8fde-003c022a77c0)
+
 EDAD: 18 años 
+
 PASATIEMPO: Hacer ejercicio, bailar, ver series y escuchar música.
 4) Rodrigo Edson Sandoval Baca:
 ![Rodrigo ](https://github.com/user-attachments/assets/0d40b14e-baca-4e64-aa47-5fe5ad71bfeb)
