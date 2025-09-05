@@ -32,10 +32,12 @@ PASATIEMPO: Hacer ejercicio, bailar, ver series y escuchar música.
 EDAD: 17 años 
 
 PASATIEMPO: Jugar basketball, montar bicicleta, tocar la guitarra y pasear a mi perro.
+
 5) Damaris Maria Tinoco Alejo:
 ![Damaris](https://github.com/user-attachments/assets/71267344-12d2-4287-aac8-3b43c9bf1d97)
 EDAD: 18 años 
 PASATIEMPO: Leer, jugar voley y escuchar música.
+
 6) Sofia Alessandra Vásquez Solano:
 ![Sofía](https://github.com/user-attachments/assets/3e80a58c-276d-41bd-8dc5-16a71464ac1e)
 EDAD: 17 años 
