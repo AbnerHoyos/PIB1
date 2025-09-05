@@ -26,6 +26,7 @@ PASATIEMPO: Jugar videojuegos, escuchar música y ver películas.
 EDAD: 18 años 
 
 PASATIEMPO: Hacer ejercicio, bailar, ver series y escuchar música.
+
 4) Rodrigo Edson Sandoval Baca:
 ![Rodrigo ](https://github.com/user-attachments/assets/0d40b14e-baca-4e64-aa47-5fe5ad71bfeb)
 EDAD: 17 años 
